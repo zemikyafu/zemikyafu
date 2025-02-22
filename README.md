@@ -1,22 +1,13 @@
-## 👋 Hi, I'm Zemichael Gebrekidan  
-  
-I'm a **Software Developer** with **10 years of experience** in **software and ERP system development**.  
-I specialize in building scalable applications using **Java, C#, Python, SQL, JavaScript, TypeScript**, and cloud platforms like **AWS and Azure**.
+### 👋 Hi, I'm Zemichael Gebrekidan ###
+I'm a Software Developer with 10 years of experience in Software and  ERP system development. Proficient in Java, C#, Python, SQL, JavaScript, TypeScript, and cloud platforms like AWS and Azure.
 
-<!--
-**zemikyafu/zemikyafu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Full-stack development with Java (Spring Boot), C# (.NET), and JavaScript.
+- 🏢 Experienced with ERP system development and Business Intelligence (BI) tools.
+- 🛠️ I like working with Spring Boot, .NET Core, React, Angular, SQL, NoSQL, Azure, and AWS.
+- 📚  Currently improving my skills in Cloud computing (Azure/AWS) and DevOps best practices.
+- 🤝 Enthusiastic about learning, collaborating, and working in dynamic teams.
 
 ### 🛠 Tech Stack  
 
@@ -59,7 +50,7 @@ A complete project management system with workspaces, projects, and tasks.
 
 ---
 
-### **2️⃣ AI-Powered Microservices System**  
+### **2️⃣ Digit Recognition and Cognitive Service**  
 A Python-based system with AI-driven microservices and a React frontend.  
 
 #### **Microservices:**  
