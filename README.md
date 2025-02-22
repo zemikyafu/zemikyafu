@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Zemichael Gebrekidan ###
-I'm a Software Developer with 10 years of experience in Software and  ERP system development. Proficient in Java, C#, Python, SQL, JavaScript, TypeScript, and cloud platforms like AWS and Azure.
+I'm a Software Developer with proficient in Java, C#, Python, SQL, JavaScript, TypeScript, and cloud platforms like AWS and Azure.
 
 ## 🚀 About Me
 
